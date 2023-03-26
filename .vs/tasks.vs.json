@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-9",
+      "appliesTo": "public/assets/img/project/project1/9.jpg",
+      "type": "launch"
+    }
+  ]
+}
